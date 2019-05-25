@@ -9,7 +9,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 </head>
 <body>
-    <p><?php echo $Aaron ?></p>
     <div class="contenedor">
         <?php foreach($objetos as $index => $item) {?>
             <div class="item">

@@ -13,7 +13,4 @@ class Ejemplo extends CI_Controller {
         $this->load->view('ejemplo/vista_ejemplo', $data);
     }
 
-    public function mostrarleAJorge(){
-        die("Mira Jorge");
-    }
 }
